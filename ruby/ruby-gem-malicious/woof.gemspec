@@ -9,4 +9,5 @@ Gem::Specification.new do |s|
     s.homepage    =
       "https://rubygems.org/gems/woof"
     s.license       = "MIT"
+    s.post_install_message = 'Wooooofie!!!'
   end

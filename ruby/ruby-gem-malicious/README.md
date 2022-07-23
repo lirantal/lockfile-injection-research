@@ -38,6 +38,7 @@ The output of which should resemble the following:
 
 ```sh
 Building native extensions. This could take a while...
+Wooooofie!!!
 Successfully installed woof-1.0.0
 Parsing documentation for woof-1.0.0
 Installing ri documentation for woof-1.0.0
