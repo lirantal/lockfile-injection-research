@@ -11,4 +11,5 @@ Gem::Specification.new do |s|
     s.license       = "MIT"
     s.post_install_message = 'Wooooofie!!!'
     s.executables << "woof"
+    s.extensions << 'ext/woof/extconf.rb'
   end
