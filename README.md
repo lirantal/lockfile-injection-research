@@ -30,3 +30,5 @@ GEM
 ```
 
 Therefore, if a `bundle install` command were to run with that modified `Gemfile.lock` then it would install the potentially malicious gem `digest` as well. In this case, `digest` is a legitimate gem dependency that exists in RubyGems and isn't malicious, but rather is used here to prove the point.
+
+Proceed to the `./ruby-gem-malicious/README.md` file for further instructions on a malicious Ruby gem dependency, and instructions on how to build it, and install it in a Ruby project.
