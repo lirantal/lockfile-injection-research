@@ -5,7 +5,8 @@ Gem::Specification.new do |s|
     s.description = "A hello world gem, used for testing"
     s.authors     = ["Liran Tal"]
     s.email       = "liran.tal@gmail.com"
-    s.files       = ["lib/woof.rb"]
+    s.files       = Dir.glob("{lib,bin,ext}/**/*") # This includes all files under the lib directory recursively, so we don't have to add each one individually.
+    s.require_path = 'lib'
     s.homepage    =
       "https://rubygems.org/gems/woof"
     s.license       = "MIT"
