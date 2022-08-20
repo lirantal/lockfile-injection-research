@@ -1,6 +1,6 @@
 # Lockfile Injection
 
-This repository is home to the Lockfile Injection research.
+This repository is home to the Lockfile Injection research, disclosed in 2019 by Liran Tal.
 
 It was originally published in September 2019 as [Why npm lockfiles can be a security blindspot for injecting malicious modules](https://snyk.io/blog/why-npm-lockfiles-can-be-a-security-blindspot-for-injecting-malicious-modules/) on the [Snyk](https://snyk.io) blog.
 
