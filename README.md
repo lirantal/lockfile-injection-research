@@ -31,3 +31,5 @@ Ruby Lockfile Injection articles:
 ## Other media coverage
 
 - This security research was presented at [Blackhat 2021](https://www.blackhat.com/eu-21/briefings/schedule/#picking-lockfiles--attacking--defending-your-supply-chain-24844) in a talked titled `Picking Lockfiles: Attacking & Defending Your Supply Chain` by GitLab security researchers.
+
+![image](https://user-images.githubusercontent.com/316371/185752497-cf14d1b8-cee4-49e7-bfbc-e08bfabb81a8.png)
