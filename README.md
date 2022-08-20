@@ -27,3 +27,7 @@ Ruby Lockfile Injection articles:
 > This is unique. I’ve never considered that attack vector before, that someone with access to the codebase could send a PR with a malicious change to the Gemfile.lock but not touch the Gemfile.
 
 [Source: reddit discussion](https://www.reddit.com/r/ruby/comments/wrkdnd/comment/ikvit8r/?utm_source=reddit&utm_medium=web2x&context=3)
+
+## Other media coverage
+
+- This security research was presented at [Blackhat 2021 as Picking Lockfiles: Attacking & Defending Your Supply Chain](https://www.blackhat.com/eu-21/briefings/schedule/#picking-lockfiles--attacking--defending-your-supply-chain-24844) by GitLab security researchers.
