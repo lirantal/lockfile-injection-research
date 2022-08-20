@@ -17,3 +17,4 @@ Ruby Lockfile Injection resources:
 - A [code repository](./ruby) to reproduce lockfile injection in Ruby gems installed with the Ruby bundler application
 - A published article: [Ruby gem installations can expose you to lockfile injection attacks](https://snyk.io/blog/ruby-gem-installation-lockfile-injection-attacks)
 - Media coverage: [Catalin Cimpanu security journalist](https://twitter.com/campuscodi/status/1560257203902169097?s=20&t=-tBL0PC0IooTP3RZEj3QrA), [Ruby Weekly](https://twitter.com/RubyDiscussions/status/1560483702060220417?s=20&t=-tBL0PC0IooTP3RZEj3QrA), [Proficio](https://twitter.com/proficioinc/status/1560537061291044864?s=20&t=-tBL0PC0IooTP3RZEj3QrA), [Ruby Libhunt](https://twitter.com/RubyLibHunt/status/1560402932134121472?s=20&t=-tBL0PC0IooTP3RZEj3QrA).
+- Discussion on Reddit [1](https://www.reddit.com/r/ruby/comments/wrkdnd/comment/ikvit8r/?utm_source=reddit&utm_medium=web2x&context=3)
